@@ -1,0 +1,7 @@
+C:\Users\Charissa\Desktop\CSharp_Crap\DailyReportApp\DailyReportApp\bin\Debug\DailyReportApp.exe.config
+C:\Users\Charissa\Desktop\CSharp_Crap\DailyReportApp\DailyReportApp\bin\Debug\DailyReportApp.exe
+C:\Users\Charissa\Desktop\CSharp_Crap\DailyReportApp\DailyReportApp\bin\Debug\DailyReportApp.pdb
+C:\Users\Charissa\Desktop\CSharp_Crap\DailyReportApp\DailyReportApp\obj\Debug\DailyReportApp.csproj.AssemblyReference.cache
+C:\Users\Charissa\Desktop\CSharp_Crap\DailyReportApp\DailyReportApp\obj\Debug\DailyReportApp.csproj.CoreCompileInputs.cache
+C:\Users\Charissa\Desktop\CSharp_Crap\DailyReportApp\DailyReportApp\obj\Debug\DailyReportApp.exe
+C:\Users\Charissa\Desktop\CSharp_Crap\DailyReportApp\DailyReportApp\obj\Debug\DailyReportApp.pdb
