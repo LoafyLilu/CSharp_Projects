@@ -5,3 +5,10 @@ C:\Users\Charissa\Desktop\CSharp_Crap\IncomeComparisonApp\IncomeComparisonApp\bi
 C:\Users\Charissa\Desktop\CSharp_Crap\IncomeComparisonApp\IncomeComparisonApp\bin\Debug\IncomeComparisonApp.pdb
 C:\Users\Charissa\Desktop\CSharp_Crap\IncomeComparisonApp\IncomeComparisonApp\obj\Debug\IncomeComparisonApp.exe
 C:\Users\Charissa\Desktop\CSharp_Crap\IncomeComparisonApp\IncomeComparisonApp\obj\Debug\IncomeComparisonApp.pdb
+C:\Users\Charissa\Documents\GitHub\CSharp_Projects\IncomeComparisonApp\IncomeComparisonApp\bin\Debug\IncomeComparisonApp.exe.config
+C:\Users\Charissa\Documents\GitHub\CSharp_Projects\IncomeComparisonApp\IncomeComparisonApp\bin\Debug\IncomeComparisonApp.exe
+C:\Users\Charissa\Documents\GitHub\CSharp_Projects\IncomeComparisonApp\IncomeComparisonApp\bin\Debug\IncomeComparisonApp.pdb
+C:\Users\Charissa\Documents\GitHub\CSharp_Projects\IncomeComparisonApp\IncomeComparisonApp\obj\Debug\IncomeComparisonApp.csproj.AssemblyReference.cache
+C:\Users\Charissa\Documents\GitHub\CSharp_Projects\IncomeComparisonApp\IncomeComparisonApp\obj\Debug\IncomeComparisonApp.csproj.CoreCompileInputs.cache
+C:\Users\Charissa\Documents\GitHub\CSharp_Projects\IncomeComparisonApp\IncomeComparisonApp\obj\Debug\IncomeComparisonApp.exe
+C:\Users\Charissa\Documents\GitHub\CSharp_Projects\IncomeComparisonApp\IncomeComparisonApp\obj\Debug\IncomeComparisonApp.pdb

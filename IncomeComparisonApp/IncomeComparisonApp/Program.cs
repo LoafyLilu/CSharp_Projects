@@ -34,11 +34,20 @@ namespace IncomeComparisonApp
             Console.WriteLine("Person 2, Please enter your Hours worked per Week");
             int p2Hours = int.Parse(Console.ReadLine());
 
+            //creates p1 and p2 salary, then uses in bool comparison
+            int p1Salary = (p1Hours * p1Pay * 52);
+            int p2Salary = (p2Hours * p2Pay * 52);
+
+            bool moMoney = (p1Salary > p2Salary);
+            
+            //Writes out the salary of p1 & p2
+            Console.WriteLine("Annual Salary of Person 1 - " + p1Salary);
+            Console.WriteLine("Annual Salary of Person 2 - " + p2Salary);
+
             Console.WriteLine("Does Person 1 make more money than Person 2?");
 
-            //Using boolean comparison to int variables
-            //User must press any key to end the program
-            Console.WriteLine(p1Pay > p2Pay);
+            //Writes out the bool value of the statement
+            Console.WriteLine(moMoney);
 
             Console.ReadKey();
                 
