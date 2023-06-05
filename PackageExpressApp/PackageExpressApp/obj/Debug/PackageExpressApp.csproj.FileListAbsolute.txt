@@ -1,0 +1,7 @@
+C:\Users\Charissa\Desktop\CSharp_Crap\PackageExpressApp\PackageExpressApp\obj\Debug\PackageExpressApp.csproj.AssemblyReference.cache
+C:\Users\Charissa\Desktop\CSharp_Crap\PackageExpressApp\PackageExpressApp\obj\Debug\PackageExpressApp.csproj.CoreCompileInputs.cache
+C:\Users\Charissa\Desktop\CSharp_Crap\PackageExpressApp\PackageExpressApp\bin\Debug\PackageExpressApp.exe.config
+C:\Users\Charissa\Desktop\CSharp_Crap\PackageExpressApp\PackageExpressApp\bin\Debug\PackageExpressApp.exe
+C:\Users\Charissa\Desktop\CSharp_Crap\PackageExpressApp\PackageExpressApp\bin\Debug\PackageExpressApp.pdb
+C:\Users\Charissa\Desktop\CSharp_Crap\PackageExpressApp\PackageExpressApp\obj\Debug\PackageExpressApp.exe
+C:\Users\Charissa\Desktop\CSharp_Crap\PackageExpressApp\PackageExpressApp\obj\Debug\PackageExpressApp.pdb
