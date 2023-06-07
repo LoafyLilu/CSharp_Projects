@@ -1,0 +1,7 @@
+C:\Users\Charissa\source\repos\doWhileLoopApp\doWhileLoopApp\obj\Debug\doWhileLoopApp.csproj.AssemblyReference.cache
+C:\Users\Charissa\source\repos\doWhileLoopApp\doWhileLoopApp\obj\Debug\doWhileLoopApp.csproj.CoreCompileInputs.cache
+C:\Users\Charissa\source\repos\doWhileLoopApp\doWhileLoopApp\bin\Debug\doWhileLoopApp.exe.config
+C:\Users\Charissa\source\repos\doWhileLoopApp\doWhileLoopApp\bin\Debug\doWhileLoopApp.exe
+C:\Users\Charissa\source\repos\doWhileLoopApp\doWhileLoopApp\bin\Debug\doWhileLoopApp.pdb
+C:\Users\Charissa\source\repos\doWhileLoopApp\doWhileLoopApp\obj\Debug\doWhileLoopApp.exe
+C:\Users\Charissa\source\repos\doWhileLoopApp\doWhileLoopApp\obj\Debug\doWhileLoopApp.pdb
