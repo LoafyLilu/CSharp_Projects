@@ -30,13 +30,6 @@ namespace doWhileLoopApp
             while (changeColor)
             {
 
-                do
-                {
-                        Console.WriteLine("Please enter your favorite primary color, in lowercase only");
-                        bgColor = (Console.ReadLine());
-               
-                    do
-                    {
                         switch (bgColor)
                         {
                             case "red":
@@ -64,10 +57,24 @@ namespace doWhileLoopApp
 
 
                         }
-                    }
+
+                if (changeColor) 
+                {
+                    Console.WriteLine("Please enter your favorite primary color, in lowercase only");
+                    bgColor = (Console.ReadLine());
                 }
+                
+
             }
-            while (!changeColor);
+
+            // counts from 1 to ten before ending the program
+            int counter = 1;
+            do
+                {
+	                Console.WriteLine(counter);
+                    counter = counter +1;
+                } while (counter <= 10);
+
 
             Console.ReadLine();
             
