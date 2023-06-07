@@ -1,4 +1,4 @@
-﻿using System;
+﻿﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -27,45 +27,47 @@ namespace doWhileLoopApp
             one of the listed case options. It then resets the color, and prompts the user again. If the
             user enters something other than the listed cases, it will return the default statement
             */
-
-            do
+            while (changeColor)
             {
-                switch (bgColor)
+
+                do
                 {
-                    case "red":
-                        Console.BackgroundColor = ConsoleColor.Red;
-                        Console.WriteLine("Here is something red! Have a great day!");
-                        Console.ResetColor();
                         Console.WriteLine("Please enter your favorite primary color, in lowercase only");
                         bgColor = (Console.ReadLine());
-                        break;
+               
+                    do
+                    {
+                        switch (bgColor)
+                        {
+                            case "red":
+                                Console.BackgroundColor = ConsoleColor.Red;
+                                Console.WriteLine("Here is something red! Have a great day!");
+                                Console.ResetColor();
+                                break;
 
-                    case "yellow":
-                        Console.BackgroundColor = ConsoleColor.Yellow;
-                        Console.WriteLine("Here is something yellow! Have a great day!");
-                        Console.ResetColor();
-                        Console.WriteLine("Please enter your favorite primary color, in lowercase only");
-                        bgColor = (Console.ReadLine());
-                        break;
+                            case "yellow":
+                                Console.BackgroundColor = ConsoleColor.Yellow;
+                                Console.WriteLine("Here is something yellow! Have a great day!");
+                                Console.ResetColor();
+                                break;
 
-                    case "blue":
-                        Console.BackgroundColor = ConsoleColor.Blue;
-                        Console.WriteLine("Here is something blue! Have a great day!");
-                        Console.ResetColor();
-                        Console.WriteLine("Please enter your favorite primary color, in lowercase only");
-                        bgColor = (Console.ReadLine());
-                        break;
+                            case "blue":
+                                Console.BackgroundColor = ConsoleColor.Blue;
+                                Console.WriteLine("Here is something blue! Have a great day!");
+                                Console.ResetColor();
+                                break;
 
-                    default:
-                        Console.WriteLine("This is not a primary color. Please enter red, blue, or yellow.");
-                       bgColor = (Console.ReadLine());
-                        break;
+                            default:
+                                Console.WriteLine("This is not a primary color. Goodbye!.");
+                                changeColor = false;
+                                break;
 
 
+                        }
+                    }
                 }
             }
-
-            while (changeColor);
+            while (!changeColor);
 
             Console.ReadLine();
             
