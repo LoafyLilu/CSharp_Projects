@@ -1,0 +1,7 @@
+C:\Users\Charissa\Desktop\CSharp_Crap\SixPartAssignment\SixPartAssignment\bin\Debug\SixPartAssignment.exe.config
+C:\Users\Charissa\Desktop\CSharp_Crap\SixPartAssignment\SixPartAssignment\bin\Debug\SixPartAssignment.exe
+C:\Users\Charissa\Desktop\CSharp_Crap\SixPartAssignment\SixPartAssignment\bin\Debug\SixPartAssignment.pdb
+C:\Users\Charissa\Desktop\CSharp_Crap\SixPartAssignment\SixPartAssignment\obj\Debug\SixPartAssignment.csproj.AssemblyReference.cache
+C:\Users\Charissa\Desktop\CSharp_Crap\SixPartAssignment\SixPartAssignment\obj\Debug\SixPartAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Charissa\Desktop\CSharp_Crap\SixPartAssignment\SixPartAssignment\obj\Debug\SixPartAssignment.exe
+C:\Users\Charissa\Desktop\CSharp_Crap\SixPartAssignment\SixPartAssignment\obj\Debug\SixPartAssignment.pdb
