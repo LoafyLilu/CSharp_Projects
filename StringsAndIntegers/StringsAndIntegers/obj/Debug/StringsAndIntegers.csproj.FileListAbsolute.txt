@@ -1,0 +1,7 @@
+C:\Users\Charissa\Desktop\CSharp_Crap\StringsAndIntegers\StringsAndIntegers\obj\Debug\StringsAndIntegers.csproj.CoreCompileInputs.cache
+C:\Users\Charissa\Desktop\CSharp_Crap\StringsAndIntegers\StringsAndIntegers\bin\Debug\StringsAndIntegers.exe.config
+C:\Users\Charissa\Desktop\CSharp_Crap\StringsAndIntegers\StringsAndIntegers\bin\Debug\StringsAndIntegers.exe
+C:\Users\Charissa\Desktop\CSharp_Crap\StringsAndIntegers\StringsAndIntegers\bin\Debug\StringsAndIntegers.pdb
+C:\Users\Charissa\Desktop\CSharp_Crap\StringsAndIntegers\StringsAndIntegers\obj\Debug\StringsAndIntegers.exe
+C:\Users\Charissa\Desktop\CSharp_Crap\StringsAndIntegers\StringsAndIntegers\obj\Debug\StringsAndIntegers.pdb
+C:\Users\Charissa\Desktop\CSharp_Crap\StringsAndIntegers\StringsAndIntegers\obj\Debug\StringsAndIntegers.csproj.AssemblyReference.cache
