@@ -1,0 +1,7 @@
+C:\Users\Charissa\Desktop\CSharp_Crap\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\CallingMethodsAssignment.csproj.AssemblyReference.cache
+C:\Users\Charissa\Desktop\CSharp_Crap\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\CallingMethodsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Charissa\Desktop\CSharp_Crap\CallingMethodsAssignment\CallingMethodsAssignment\bin\Debug\CallingMethodsAssignment.exe.config
+C:\Users\Charissa\Desktop\CSharp_Crap\CallingMethodsAssignment\CallingMethodsAssignment\bin\Debug\CallingMethodsAssignment.exe
+C:\Users\Charissa\Desktop\CSharp_Crap\CallingMethodsAssignment\CallingMethodsAssignment\bin\Debug\CallingMethodsAssignment.pdb
+C:\Users\Charissa\Desktop\CSharp_Crap\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\CallingMethodsAssignment.exe
+C:\Users\Charissa\Desktop\CSharp_Crap\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\CallingMethodsAssignment.pdb
