@@ -1,0 +1,7 @@
+C:\Users\Charissa\Desktop\CSharp_Crap\MethodOptionalParameters\MethodOptionalParameters\bin\Debug\MethodOptionalParameters.exe.config
+C:\Users\Charissa\Desktop\CSharp_Crap\MethodOptionalParameters\MethodOptionalParameters\bin\Debug\MethodOptionalParameters.exe
+C:\Users\Charissa\Desktop\CSharp_Crap\MethodOptionalParameters\MethodOptionalParameters\bin\Debug\MethodOptionalParameters.pdb
+C:\Users\Charissa\Desktop\CSharp_Crap\MethodOptionalParameters\MethodOptionalParameters\obj\Debug\MethodOptionalParameters.csproj.AssemblyReference.cache
+C:\Users\Charissa\Desktop\CSharp_Crap\MethodOptionalParameters\MethodOptionalParameters\obj\Debug\MethodOptionalParameters.csproj.CoreCompileInputs.cache
+C:\Users\Charissa\Desktop\CSharp_Crap\MethodOptionalParameters\MethodOptionalParameters\obj\Debug\MethodOptionalParameters.exe
+C:\Users\Charissa\Desktop\CSharp_Crap\MethodOptionalParameters\MethodOptionalParameters\obj\Debug\MethodOptionalParameters.pdb
