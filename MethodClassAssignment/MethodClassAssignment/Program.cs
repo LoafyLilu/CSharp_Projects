@@ -21,10 +21,11 @@ namespace MethodClassAssignment
                 creates another instance of the class, and passes in
                 the parameter names into the method AddThings
             */
-            int a = 4;
-            int b = 5;
+
             Stuff thing2 = new Stuff();
-            thing1.AddThings(a , b);
+            thing1.AddThings(a:4 , b:5);
+
+            Console.ReadLine();
 
         }
     }

@@ -5,3 +5,10 @@ C:\Users\Charissa\Desktop\CSharp_Crap\MethodClassAssignment\MethodClassAssignmen
 C:\Users\Charissa\Desktop\CSharp_Crap\MethodClassAssignment\MethodClassAssignment\bin\Debug\MethodClassAssignment.pdb
 C:\Users\Charissa\Desktop\CSharp_Crap\MethodClassAssignment\MethodClassAssignment\obj\Debug\MethodClassAssignment.exe
 C:\Users\Charissa\Desktop\CSharp_Crap\MethodClassAssignment\MethodClassAssignment\obj\Debug\MethodClassAssignment.pdb
+C:\Users\Charissa\Documents\GitHub\CSharp_Projects\MethodClassAssignment\MethodClassAssignment\bin\Debug\MethodClassAssignment.exe.config
+C:\Users\Charissa\Documents\GitHub\CSharp_Projects\MethodClassAssignment\MethodClassAssignment\bin\Debug\MethodClassAssignment.exe
+C:\Users\Charissa\Documents\GitHub\CSharp_Projects\MethodClassAssignment\MethodClassAssignment\bin\Debug\MethodClassAssignment.pdb
+C:\Users\Charissa\Documents\GitHub\CSharp_Projects\MethodClassAssignment\MethodClassAssignment\obj\Debug\MethodClassAssignment.csproj.AssemblyReference.cache
+C:\Users\Charissa\Documents\GitHub\CSharp_Projects\MethodClassAssignment\MethodClassAssignment\obj\Debug\MethodClassAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Charissa\Documents\GitHub\CSharp_Projects\MethodClassAssignment\MethodClassAssignment\obj\Debug\MethodClassAssignment.exe
+C:\Users\Charissa\Documents\GitHub\CSharp_Projects\MethodClassAssignment\MethodClassAssignment\obj\Debug\MethodClassAssignment.pdb
