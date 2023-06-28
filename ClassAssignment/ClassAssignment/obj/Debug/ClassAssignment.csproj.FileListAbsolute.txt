@@ -1,0 +1,7 @@
+C:\Users\Charissa\Desktop\CSharp_Crap\ClassAssignment\ClassAssignment\bin\Debug\ClassAssignment.exe.config
+C:\Users\Charissa\Desktop\CSharp_Crap\ClassAssignment\ClassAssignment\bin\Debug\ClassAssignment.exe
+C:\Users\Charissa\Desktop\CSharp_Crap\ClassAssignment\ClassAssignment\bin\Debug\ClassAssignment.pdb
+C:\Users\Charissa\Desktop\CSharp_Crap\ClassAssignment\ClassAssignment\obj\Debug\ClassAssignment.csproj.AssemblyReference.cache
+C:\Users\Charissa\Desktop\CSharp_Crap\ClassAssignment\ClassAssignment\obj\Debug\ClassAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Charissa\Desktop\CSharp_Crap\ClassAssignment\ClassAssignment\obj\Debug\ClassAssignment.exe
+C:\Users\Charissa\Desktop\CSharp_Crap\ClassAssignment\ClassAssignment\obj\Debug\ClassAssignment.pdb
