@@ -5,3 +5,10 @@ C:\Users\Charissa\Desktop\CSharp_Crap\MethodsAndObjects\MethodsAndObjects\obj\De
 C:\Users\Charissa\Desktop\CSharp_Crap\MethodsAndObjects\MethodsAndObjects\obj\Debug\MethodsAndObjects.csproj.CoreCompileInputs.cache
 C:\Users\Charissa\Desktop\CSharp_Crap\MethodsAndObjects\MethodsAndObjects\obj\Debug\MethodsAndObjects.exe
 C:\Users\Charissa\Desktop\CSharp_Crap\MethodsAndObjects\MethodsAndObjects\obj\Debug\MethodsAndObjects.pdb
+C:\Users\Charissa\Documents\GitHub\CSharp_Projects\MethodsAndObjects\MethodsAndObjects\obj\Debug\MethodsAndObjects.csproj.AssemblyReference.cache
+C:\Users\Charissa\Documents\GitHub\CSharp_Projects\MethodsAndObjects\MethodsAndObjects\obj\Debug\MethodsAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\Charissa\Documents\GitHub\CSharp_Projects\MethodsAndObjects\MethodsAndObjects\obj\Debug\MethodsAndObjects.exe
+C:\Users\Charissa\Documents\GitHub\CSharp_Projects\MethodsAndObjects\MethodsAndObjects\obj\Debug\MethodsAndObjects.pdb
+C:\Users\Charissa\Documents\GitHub\CSharp_Projects\MethodsAndObjects\MethodsAndObjects\bin\Debug\MethodsAndObjects.exe.config
+C:\Users\Charissa\Documents\GitHub\CSharp_Projects\MethodsAndObjects\MethodsAndObjects\bin\Debug\MethodsAndObjects.exe
+C:\Users\Charissa\Documents\GitHub\CSharp_Projects\MethodsAndObjects\MethodsAndObjects\bin\Debug\MethodsAndObjects.pdb

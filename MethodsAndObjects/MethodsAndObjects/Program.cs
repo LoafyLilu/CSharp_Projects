@@ -17,10 +17,10 @@ namespace MethodsAndObjects
             */
 
             Employee employee1 = new Employee();
-            string FirstName = "Sample";
-            string LastName = "Student";
+            employee1.FirstName = "Sample";
+            employee1.LastName = "Student";
 
-            employee1.SayName(FirstName,LastName);
+            employee1.SayName();
         }
     }
 }

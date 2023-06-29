@@ -12,13 +12,13 @@ namespace MethodsAndObjects
         Sets the variables for the class Person, but does
         not define a value
         */
-        string FirstName;
-        string LastName;
+        public string FirstName;
+        public string LastName;
 
-        public void SayName(string FirstName, string LastName)
+        public void SayName()
         {
             //Tells the console to display the variable values of the class
-            Console.WriteLine("Name : [" + FirstName + " " + LastName + "]");
+            Console.WriteLine("Name: " + " [ " + FirstName + LastName + " ] ");
         }
     }
 }
