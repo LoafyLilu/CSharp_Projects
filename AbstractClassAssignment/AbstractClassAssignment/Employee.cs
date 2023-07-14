@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace AbstractClassAssignment
 {
-    //Creates the Employee class, based off the abstract Person class
-    class Employee : Person
+    //Creates the Employee class, based off the abstract Person class and the interface IQuittable
+    class Employee : Person , IQuittable
     {
         //Overrides the empty abstract method from the Person class
         public override void SayName()
@@ -18,5 +18,12 @@ namespace AbstractClassAssignment
             */
             Console.WriteLine("Hello there " + firstName + " " + lastName);
         }
+
+        //implements the abstract method from the IQuittable interface
+        public void Quit()
+        {
+            Console.WriteLine($"\n Did you know this is an example of utilizing an interface for inheriting multiple classes! Cool huh?");   
+        }
+
     }
 }

@@ -22,8 +22,16 @@ namespace AbstractClassAssignment
             emp1.SayName();
             Console.ReadLine();
 
-            
-            
+            /*
+                Instanciates an object of the IQuittable interface, by using polymorphism
+                from the Employee class
+            */
+
+            IQuittable emp2 = new Employee();
+            emp2.Quit();
+            Console.ReadLine();
+
+
             
         }
     }

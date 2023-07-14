@@ -5,3 +5,10 @@ C:\Users\Charissa\Desktop\CSharp_Crap\AbstractClassAssignment\AbstractClassAssig
 C:\Users\Charissa\Desktop\CSharp_Crap\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\AbstractClassAssignment.pdb
 C:\Users\Charissa\Desktop\CSharp_Crap\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\AbstractClassAssignment.exe
 C:\Users\Charissa\Desktop\CSharp_Crap\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\AbstractClassAssignment.pdb
+C:\Users\Charissa\Documents\GitHub\CSharp_Projects\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\AbstractClassAssignment.exe.config
+C:\Users\Charissa\Documents\GitHub\CSharp_Projects\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\AbstractClassAssignment.exe
+C:\Users\Charissa\Documents\GitHub\CSharp_Projects\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\AbstractClassAssignment.pdb
+C:\Users\Charissa\Documents\GitHub\CSharp_Projects\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\AbstractClassAssignment.csproj.AssemblyReference.cache
+C:\Users\Charissa\Documents\GitHub\CSharp_Projects\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\AbstractClassAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Charissa\Documents\GitHub\CSharp_Projects\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\AbstractClassAssignment.exe
+C:\Users\Charissa\Documents\GitHub\CSharp_Projects\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\AbstractClassAssignment.pdb
