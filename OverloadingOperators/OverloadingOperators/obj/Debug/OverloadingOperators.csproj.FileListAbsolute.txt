@@ -1,0 +1,7 @@
+C:\Users\Charissa\Desktop\CSharp_Crap\OverloadingOperators\OverloadingOperators\obj\Debug\OverloadingOperators.csproj.AssemblyReference.cache
+C:\Users\Charissa\Desktop\CSharp_Crap\OverloadingOperators\OverloadingOperators\obj\Debug\OverloadingOperators.csproj.CoreCompileInputs.cache
+C:\Users\Charissa\Desktop\CSharp_Crap\OverloadingOperators\OverloadingOperators\bin\Debug\OverloadingOperators.exe.config
+C:\Users\Charissa\Desktop\CSharp_Crap\OverloadingOperators\OverloadingOperators\bin\Debug\OverloadingOperators.exe
+C:\Users\Charissa\Desktop\CSharp_Crap\OverloadingOperators\OverloadingOperators\bin\Debug\OverloadingOperators.pdb
+C:\Users\Charissa\Desktop\CSharp_Crap\OverloadingOperators\OverloadingOperators\obj\Debug\OverloadingOperators.exe
+C:\Users\Charissa\Desktop\CSharp_Crap\OverloadingOperators\OverloadingOperators\obj\Debug\OverloadingOperators.pdb
