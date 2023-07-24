@@ -40,7 +40,10 @@ namespace LambdaAssignment
                 }
             }
 
-            severalJoes.ForEach(Console.WriteLine);
+            foreach (Employee j in severalJoes)
+            {
+                Console.WriteLine(j.firstName + " " + j.lastName);
+            }
 
 
 
