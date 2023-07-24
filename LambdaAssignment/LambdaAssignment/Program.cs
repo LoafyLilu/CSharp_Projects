@@ -11,7 +11,7 @@ namespace LambdaAssignment
         static void Main(string[] args)
         {
             //Creates a list of Employees and assigns values to each property
-            List<Employee> emp = new List<Employee>()
+            List<Employee> emps = new List<Employee>()
             {
                 new Employee { Id = 1, firstName = "Joe", lastName = "Schmoe"},
                 new Employee { Id = 2, firstName = "Amy", lastName = "Crause"},
@@ -25,8 +25,27 @@ namespace LambdaAssignment
                 new Employee { Id = 10, firstName = "Joe", lastName = "Hobo"},
             };
 
-            //Creates an enumerable list of employees that meet the lambda function conditions
-            IEnumerable<Employee> lotsaJoe = emp.Where(x => x.firstName == "Joe");
+            //Creates a for each loop to go through each employee and check their first name
+            //then adds item to list if conditions are met
+            List<Employee> severalJoes = new List<Employee>();
+            foreach (Employee e in emps)
+            {
+                if (e.firstName == "Joe")
+                {
+                    severalJoes.Add(e);
+                }
+                else
+                {
+                    continue;
+                }
+            }
+
+            severalJoes.ForEach(Console.WriteLine);
+
+
+
+            //Creates an list of employees that meet the lambda function conditions
+            List<Employee> lotsaJoe = emps.Where(x => x.firstName == "Joe").ToList();
 
             //Creates a foreach loop to iterate over each result on the list and display the results
             foreach (Employee e in lotsaJoe)
@@ -37,7 +56,7 @@ namespace LambdaAssignment
             Console.ReadLine();
 
             //Creates an enumerable list of employees that meet the lamba function conditions
-            IEnumerable<Employee> newEmployees = emp.Where(x => x.Id > 5);
+            List<Employee> newEmployees = emps.Where(x => x.Id > 5).ToList();
 
 
             //Creates a foreach loop to iterate over each result on the list and display the results
