@@ -1,0 +1,7 @@
+C:\Users\Charissa\Desktop\CSharp_Crap\LambdaAssignment\LambdaAssignment\bin\Debug\LambdaAssignment.exe.config
+C:\Users\Charissa\Desktop\CSharp_Crap\LambdaAssignment\LambdaAssignment\bin\Debug\LambdaAssignment.exe
+C:\Users\Charissa\Desktop\CSharp_Crap\LambdaAssignment\LambdaAssignment\bin\Debug\LambdaAssignment.pdb
+C:\Users\Charissa\Desktop\CSharp_Crap\LambdaAssignment\LambdaAssignment\obj\Debug\LambdaAssignment.csproj.AssemblyReference.cache
+C:\Users\Charissa\Desktop\CSharp_Crap\LambdaAssignment\LambdaAssignment\obj\Debug\LambdaAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Charissa\Desktop\CSharp_Crap\LambdaAssignment\LambdaAssignment\obj\Debug\LambdaAssignment.exe
+C:\Users\Charissa\Desktop\CSharp_Crap\LambdaAssignment\LambdaAssignment\obj\Debug\LambdaAssignment.pdb
