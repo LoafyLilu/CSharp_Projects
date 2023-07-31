@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TwentyOneGame
+namespace Casino1
 {
     // From class to struct - struct does not inherite, can remain stand alone, unmutable instance
     public struct Card
