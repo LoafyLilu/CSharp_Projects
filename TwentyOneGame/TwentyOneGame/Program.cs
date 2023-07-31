@@ -12,10 +12,7 @@ namespace TwentyOneGame
         static void Main(string[] args)
         {
 
-            //Quick example to write text to a file -requires System.IO
-            //Go to definition -file, for more uses
-           //string text = "There's a snake in mah boot!";
-           //File.ReadAllText(@"C:\Users\Charissa\Desktop\woowee.txt");
+
 
 
             Console.WriteLine("Welcome to Grand Hotel and Casino. Let's start by telling me your name.");

@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 
-namespace TwentyOneGame
+namespace Casino.TwentyOneGame
 {
     public class TwentyOneRules
     {
