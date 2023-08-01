@@ -5,18 +5,23 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 using Casino1;
+using Casino1.TwentyOneGame;
 
-namespace TwentyOneGame
+namespace TwentyOne
 {
     class Program
     {
         static void Main(string[] args)
         {
+            // Example of chained constructors
+            // var newPlayer = new Player("Gabe");
 
+            const string casinoName = "Grand Hotel and Casino";
 
+            // Creating a globally unique identifier
+            Guid identifier = Guid.NewGuid();
 
-
-            Console.WriteLine("Welcome to Grand Hotel and Casino. Let's start by telling me your name.");
+            Console.WriteLine("Welcome to the {0} Let's start by telling me your name.", casinoName);
             string playerName = Console.ReadLine();
 
             Console.WriteLine("And how much money did you bring today?");
@@ -28,6 +33,13 @@ namespace TwentyOneGame
             if (answer == "yes" || answer == "yeah" || answer == "y" || answer == "ya")
             {
                 Player player = new Player(playerName, bank);
+                player.Id = Guid.NewGuid();
+                using (StreamWriter file = new StreamWriter(@"C:\Users\Charissa\Desktop\woowee.txt", true))
+                {
+                    file.WriteLine(player.Id);
+                    
+                }
+
                 Game game = new TwentyOneGame();
                 game += player;
                 player.isActivelyPlaying = true;

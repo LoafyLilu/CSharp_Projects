@@ -8,6 +8,13 @@ namespace Casino1
 {
     public class Player
     {
+        //Example of chained constructor parameters
+        public Player(string name) : this(name, 100)
+        {
+            
+        }
+        
+
         public Player(string name, int beginningBalance)
         {
             Hand = new List<Card>();
@@ -20,6 +27,7 @@ namespace Casino1
         public string Name { get; set; }
         public bool isActivelyPlaying { get; set; }
         public bool Stay { get; set; }
+        public Guid Id { get; set; }
 
         public bool Bet(int amount)
         {
