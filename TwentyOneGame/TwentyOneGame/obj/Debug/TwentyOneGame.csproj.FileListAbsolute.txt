@@ -22,3 +22,6 @@ C:\Users\Charissa\Desktop\TwentyOneGame\TwentyOneGame\obj\Debug\TwentyOneGame.cs
 C:\Users\Charissa\Desktop\TwentyOneGame\TwentyOneGame\obj\Debug\TwentyOneGame.csproj.CopyComplete
 C:\Users\Charissa\Desktop\TwentyOneGame\TwentyOneGame\obj\Debug\TwentyOneGame.exe
 C:\Users\Charissa\Desktop\TwentyOneGame\TwentyOneGame\obj\Debug\TwentyOneGame.pdb
+C:\Users\Charissa\Documents\GitHub\CSharp_Projects\TwentyOneGame\TwentyOneGame\bin\Debug\Casino1.dll
+C:\Users\Charissa\Documents\GitHub\CSharp_Projects\TwentyOneGame\TwentyOneGame\bin\Debug\Casino1.pdb
+C:\Users\Charissa\Documents\GitHub\CSharp_Projects\TwentyOneGame\TwentyOneGame\obj\Debug\TwentyOneGame.csproj.CopyComplete
