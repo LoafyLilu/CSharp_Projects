@@ -1,0 +1,31 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h2 class="display-4">Hey there! :D</h2>
+    <p> This is a quick demonstration of an ASP.NET Core web app, and a few pieces of razor syntax!</p>
+</div>
+
+@{
+    var rightMeow = DateTime.Now;
+    var msg = "";
+    var msg2 = "Did you know that it is " + rightMeow.Hour + " : " +  rightMeow.Minute + " right meow?";
+
+    if (rightMeow.Hour > 16)
+    { msg = "Good Evening!"; }
+    if (rightMeow.Hour < 10)
+    { msg = "Good Morning!";  }
+    else
+    { msg = "Good Afternoon!"; }
+
+}
+
+<div class="text-center">
+    <h2><p>@msg</p></h2><br />
+    <p>@msg2</p>
+</div>
+
+
