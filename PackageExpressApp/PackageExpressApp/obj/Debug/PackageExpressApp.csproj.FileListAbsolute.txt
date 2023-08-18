@@ -5,3 +5,10 @@ C:\Users\Charissa\Desktop\CSharp_Crap\PackageExpressApp\PackageExpressApp\bin\De
 C:\Users\Charissa\Desktop\CSharp_Crap\PackageExpressApp\PackageExpressApp\bin\Debug\PackageExpressApp.pdb
 C:\Users\Charissa\Desktop\CSharp_Crap\PackageExpressApp\PackageExpressApp\obj\Debug\PackageExpressApp.exe
 C:\Users\Charissa\Desktop\CSharp_Crap\PackageExpressApp\PackageExpressApp\obj\Debug\PackageExpressApp.pdb
+C:\Users\Charissa\Documents\GitHub\CSharp_Projects\PackageExpressApp\PackageExpressApp\bin\Debug\PackageExpressApp.exe.config
+C:\Users\Charissa\Documents\GitHub\CSharp_Projects\PackageExpressApp\PackageExpressApp\bin\Debug\PackageExpressApp.exe
+C:\Users\Charissa\Documents\GitHub\CSharp_Projects\PackageExpressApp\PackageExpressApp\bin\Debug\PackageExpressApp.pdb
+C:\Users\Charissa\Documents\GitHub\CSharp_Projects\PackageExpressApp\PackageExpressApp\obj\Debug\PackageExpressApp.csproj.AssemblyReference.cache
+C:\Users\Charissa\Documents\GitHub\CSharp_Projects\PackageExpressApp\PackageExpressApp\obj\Debug\PackageExpressApp.csproj.CoreCompileInputs.cache
+C:\Users\Charissa\Documents\GitHub\CSharp_Projects\PackageExpressApp\PackageExpressApp\obj\Debug\PackageExpressApp.exe
+C:\Users\Charissa\Documents\GitHub\CSharp_Projects\PackageExpressApp\PackageExpressApp\obj\Debug\PackageExpressApp.pdb
