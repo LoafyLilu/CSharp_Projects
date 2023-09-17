@@ -19,6 +19,12 @@ Package Express App
 
 Good News, Everyone! This console app will calculate your total shipping cost based on a number of parameters. Once the users input is converted to the int data type, it is then run through a an if else loop to determine if the item meets shipping requirements.
 
+TheatreCMS Project
+
+A working example of a larger project utilizing the .Net Core and Entity framework.
+
+Utilizing an existing database, I was tasked with creating a Blog Author section with full CRUD functionality. In addition, it was important for me to maintain a consistant theme in both layout and color.
+
 
 
 
